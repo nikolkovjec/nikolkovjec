@@ -1,6 +1,6 @@
 
 # 💫About Me :
-- I am proficient in full-stack development with Python/Django/Node/Angular/React
+- I am proficient in Software Engineering with Python/C++/Node/Angular/React
 - I am working on AI and Data Science with the powers of Python in Data Science
 - Expert in AWS & Azure Cloud services
 - 💼 Professional Coding Trainer
